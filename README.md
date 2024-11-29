@@ -1,8 +1,7 @@
 # GetPixelColor
 
 ## A cross-platform python library for getting the color of a given pixel on screen.
-
-![img](https://github.com/Bobrobot1/GetPixelColor/actions/workflows/tests.yml/badge.svg) [![Downloads](https://static.pepy.tech/badge/getpixelcolor)](https://pepy.tech/project/getpixelcolor) [![Downloads](https://static.pepy.tech/badge/getpixelcolor/month)](https://pepy.tech/project/getpixelcolor)
+## **origin by 9021007**
 
 
  - Compatible with MacOS, Windows, and Linux.
@@ -23,5 +22,3 @@ Get average color of an area: `getpixelcolor.average(x, y, width, height)`
 Get all color values of an area: `getpixelcolor.area(x, y, width, height)`
 
 > [[[R, G, B, (A)]]]
-
-https://pypi.org/project/GetPixelColor/

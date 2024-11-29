@@ -7,10 +7,12 @@ import platform
 from typing import Tuple, Union  
 from PIL import Image
 from sys import platform
-import pyautogui
 import numpy as np
 
-if platform == "win32":
+
+if platform == "linux" or platform == "linux2":
+    import pyautogui
+elif platform == "win32":
     import win32gui
 
 

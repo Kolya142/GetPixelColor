@@ -4,7 +4,7 @@
 ## **origin by 9021007**
 
 
- - Compatible with MacOS, Windows, and Linux.
+ - Compatible with MacOS arm64, Windows, and Linux.
  - Transparency data only available on some platforms.
    
 __Examples:__
